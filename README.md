@@ -59,6 +59,6 @@ Esse repositório é vivo! Sinta-se livre para dar um fork, clonar, editar e mel
 
 ---
 
-🔗 **Me segue no GitHub pra acompanhar mais repositórios assim:**  
-[GitHub](https://github.com/lelettsabino)
+🔗 **Me siga no GitHub pra acompanhar mais repositórios assim:**  
+[GitHub](https://github.com/letticiasabino)
 
